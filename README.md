@@ -1,4 +1,4 @@
-# foodie
+# Foodie
 
 A new Flutter and Firebase project.
 
@@ -11,7 +11,7 @@ Cibus is a Mobile app that helps to donate or share your food. Any one can list 
 <h2>How we built it</h2>
 Cibus is built using flutter which can produce app in cross platform including IOS, Android, and web .
 
-<h2>What's next for Cibus<h2>
+<h2>What's next for Cibus</h2>
 Cibus have a long path in Front of it, to get more users we need more than just popularity , we aim to rise a community, with philanthropy at its core, People who are willing to help others, and people not feeling discomfort in donating food or accepting the same . We are also planning to give credits or point to restaurants and organisations who donate more , which can be used by them to showcase their philanthropy .
 
 <h2>Built With</h2>

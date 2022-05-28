@@ -1,16 +1,19 @@
 # foodie
 
-A new Flutter project.
+A new Flutter and Firebase project.
 
-## Getting Started
+#Inspiration
+Did you know that the amount of food produced in the world is enough to feed 1.5 times the world population . Still about 811 million people do not have enough to eat .That makes up 8.9% of world population .According to recent studies after slow declination until 2015, there has been an increase in hunger rates around the world .The world is not on track to achieve the Sustainable Development Goal for hunger. Global hunger isn’t about a lack of food. Right now, the world produces enough food to nourish every man, woman and child on the planet.$1 Trillion Dollars’ Worth of Food Is Wasted Each Year. Food Waste Is One of the Largest Producers of Carbon. Rich Countries Waste as Much Food as Sub-Saharan Africa Produces. Cutting Global Food Waste Is a Top U.N. Goal. Of the estimated 125 to 160 billion pounds of food ends up in a trash bin rather than a hungry stomach, much of it is perfectly edible and nutritious.
 
-This project is a starting point for a Flutter application.
+#What it does
+Cibus is a Mobile app that helps to donate or share your food. Any one can list their left food on this app, by clicking the add+ button. This will be made available to public. People can view the list of food that is kept for donation and go for it. Cibus can be used to share your left-over food no matter how much it is, we encourage both large scale and small scale donations , even if it’s just a single meal. This app can be used by restaurant owners to give-away the remaining food. We also people to donate the remaining foods from large programs , parties etc … Cibus can be of great help to social workers and philanthropist who wants to give away free food . The Cibus follows first-come-first serve policy for achieving the goal of least food waste.
 
-A few resources to get you started if this is your first Flutter project:
+#How we built it
+Cibus is built using flutter which can produce app in cross platform including IOS, Android, and web .
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#What's next for Cibus
+Cibus have a long path in Front of it, to get more users we need more than just popularity , we aim to rise a community, with philanthropy at its core, People who are willing to help others, and people not feeling discomfort in donating food or accepting the same . We are also planning to give credits or point to restaurants and organisations who donate more , which can be used by them to showcase their philanthropy .
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built With
+-firebase
+-flutter
